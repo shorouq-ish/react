@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.073c9b0a.css",
-    "main.js": "/react/static/js/main.18bca181.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react/static/css/main.ab6539a6.css",
+    "main.js": "/react/static/js/main.0372efd6.js",
+    "static/media/af.svg": "/react/static/media/af.39e74801e5626eaaf6f0231272ee9edb.svg",
+    "static/media/nunito-sans-all-400-normal.woff": "/react/static/media/nunito-sans-all-400-normal.6829d5bb0386828b00bc.woff",
+    "static/media/nunito-sans-latin-400-normal.woff2": "/react/static/media/nunito-sans-latin-400-normal.5c4de521b020a610c232.woff2",
+    "static/media/nunito-sans-latin-ext-400-normal.woff2": "/react/static/media/nunito-sans-latin-ext-400-normal.3d7d18f958c14dddfbc0.woff2",
+    "static/media/nunito-sans-cyrillic-ext-400-normal.woff2": "/react/static/media/nunito-sans-cyrillic-ext-400-normal.f6d69d802ffb1d44610d.woff2",
+    "static/media/nunito-sans-cyrillic-400-normal.woff2": "/react/static/media/nunito-sans-cyrillic-400-normal.1dd0800644712a9519d0.woff2",
+    "static/media/al.svg": "/react/static/media/al.dd17f9b0b19aa16e7afe8e156454f33d.svg",
+    "static/media/nunito-sans-vietnamese-400-normal.woff2": "/react/static/media/nunito-sans-vietnamese-400-normal.d68ebb752ccf1a0cdcef.woff2",
+    "static/media/br.svg": "/react/static/media/br.0195f1434b135a18881f1fd31a962073.svg",
+    "static/media/us.svg": "/react/static/media/us.14abad61351d512234363fd6c0af113a.svg",
     "index.html": "/react/index.html",
-    "main.073c9b0a.css.map": "/react/static/css/main.073c9b0a.css.map",
-    "main.18bca181.js.map": "/react/static/js/main.18bca181.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/dz.svg": "/react/static/media/dz.8fee433ae9c49de475a8c04a17ca0579.svg",
+    "static/media/is.svg": "/react/static/media/is.bb94eebadbe98e459758ddcf03f1dfb9.svg",
+    "static/media/de.svg": "/react/static/media/de.ed5be69598a5a9c32bc893f67ede7160.svg",
+    "main.ab6539a6.css.map": "/react/static/css/main.ab6539a6.css.map",
+    "main.0372efd6.js.map": "/react/static/js/main.0372efd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.18bca181.js"
+    "static/css/main.ab6539a6.css",
+    "static/js/main.0372efd6.js"
   ]
 }
